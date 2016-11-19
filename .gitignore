@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+*.log
+*.pid
+logs
+*.swp
+core
+*.idea
+*.vscode
+*-compiled.*
+cluster*
+configsvr*
+mongos*
+shard*
+data
+
