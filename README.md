@@ -1,7 +1,5 @@
 MongoDB README
 
-Welcome to MongoDB!
-
 COMPONENTS
 
   bin/mongod - The database process.
@@ -19,25 +17,7 @@ UTILITIES
 
 RUNNING
 
-  To run a single server database:
+  To init a cluster server database:
 
     ./init.sh
     
-DRIVERS
-
-  Client drivers for most programming languages are available at mongodb.org.  Use the 
-  shell ("mongo") for administrative tasks.
-
-DOCUMENTATION
-
-  http://www.mongodb.org/
-
-MAIL LISTS AND IRC
-
-  http://dochub.mongodb.org/core/community
-
-32 BIT BUILD NOTES
-
-  MongoDB uses memory mapped files.  If built as a 32 bit executable, you will
-  not be able to work with large (multi-gigabyte) databases.  However, 32 bit
-  builds work fine with small development databases.
