@@ -4,7 +4,7 @@
 # @module
 # @version 1.0.0
 # @author Xijun Zhu <zhuzeqi2010@163.com>
-# @File ${NAME}
+# @File clearCluster
 # @Date 16-11-19
 # @Wechat zhuzeqi2010
 # @QQ 304566647
